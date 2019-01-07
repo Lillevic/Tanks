@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="box2d_processing">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Dokumenter/Skole/Prog/Processing/Tanks/application.windows64/lib/box2d_processing.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Dokumenter/Skole/Prog/Processing/Tanks/application.windows64/lib/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Dokumenter/Skole/Prog/Processing/Tanks/application.windows64/lib/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Dokumenter/Skole/Prog/Processing/Tanks/application.windows64/lib/core.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Dokumenter/Skole/Prog/Processing/Tanks/application.windows64/lib/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Dokumenter/Skole/Prog/Processing/Tanks/application.windows64/lib/jbox2d-library-2.2.1-ds.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Dokumenter/Skole/Prog/Processing/Tanks/application.windows64/lib/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
